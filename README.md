@@ -1,6 +1,6 @@
-## A Word-Level Uncertainty Estimation Approach for Black-Box TextClassifiers using RNNs
+## A Word-Level Uncertainty Estimation Approach for Black-Box Text Classifiers using RNNs
 
-This repository provides the implementation of the paper "A Word-Level Uncertainty Estimation Approach for Black-Box TextClassifiers using RNNs"
+This repository provides the implementation of the paper "A Word-Level Uncertainty Estimation Approach for Black-Box Text Classifiers using RNNs"
 
 # Note
 
